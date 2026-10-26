@@ -1,0 +1,351 @@
+{
+ "factory": "0xca143ce32fe78f1f7019d7d551a6402fc5350c73",
+ "all_pairs_length": 3562231,
+ "index_range": [
+  3562191,
+  3562230
+ ],
+ "usd": 10.0,
+ "fee": 0.0025,
+ "rows": [
+  {
+   "idx": 3562191,
+   "pair": "0x6dd62ba5e112b118a8ee08513c66dca9e8f07687",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562192,
+   "pair": "0xa711539640021f4da9b69f098635243b59c1657f",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562193,
+   "pair": "0x3a2aa480ce1015129f634efa5656692271e618c2",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562194,
+   "pair": "0x14c879ef511b49665412f66cc09f243f744a739d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562195,
+   "pair": "0xc41ebc41c1c61eac74c3d3020d78d17c035b4455",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562196,
+   "pair": "0x91d94a3319cb830f3f16070c2a490af2cb4c0130",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562197,
+   "pair": "0x6d7b9a55fc8cd5187b63b03055a4a9e7e1867322",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562198,
+   "pair": "0xe8d30f1f3d1dd3dbec9f3476044c269f7ae69e25",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562199,
+   "pair": "0x2bc3d2d33ff0b0afbcd8081af7e4f516b1e06b2e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562200,
+   "pair": "0x58cd33c14e257b980ab5ea6469d8d2a73098fe69",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562201,
+   "pair": "0x9c52ed1aad5c77e5de1916f50930f0c88d12e9cd",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562202,
+   "pair": "0x2c95afb349338453917a0d3ea6dde38f216efd61",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562203,
+   "pair": "0xa11a34355e1c15f5d3c60cdffc73e98103d2f28e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562204,
+   "pair": "0x8028acd9017462588f0981387a4e32ebb7b446b5",
+   "r0": 10592006625851,
+   "r1": 4965022956031494618603336,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xe71c9710f55e473122b88185a7d3910ffb4a7777",
+   "sym_base": "WBNB",
+   "sym_quote": "AIDCOIN",
+   "loss_pct": 0.4997743040213811,
+   "status": "OK"
+  },
+  {
+   "idx": 3562205,
+   "pair": "0xc31f1b6a49bd101542670f1b996fbde89c86374c",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562206,
+   "pair": "0x0e88ade039457956677c4f0ec79f20ad5a4d760d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562207,
+   "pair": "0x769cbfc65ff306de77934977386ca020109b5efa",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562208,
+   "pair": "0xdca49292398574ca15622fe0eb07f6c250b4bccc",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562209,
+   "pair": "0xddd3836e5b113c29ec22a0fe93f1474edc4743d6",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562210,
+   "pair": "0x7ed62ee5d24f737a083d55d62189c9c7be6481ab",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562211,
+   "pair": "0x066370430cbc1e858dc8c87ce164e1e9d41cfac3",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562212,
+   "pair": "0xebbe403082894844648195bcbdde288a12baf345",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562213,
+   "pair": "0x9a01562eda314a01cf40d20870f90cb46d2afca0",
+   "r0": 18491670900000000000000,
+   "r1": 973476521443927454885832445,
+   "base": "0x55d398326f99059ff775485246999027b3197955",
+   "quote": "0xbc88dbdf0a4bb08fe16353f0a4026f8b44e4f1a8",
+   "sym_base": "USDT",
+   "sym_quote": "\u706b\u661f\u4eba",
+   "loss_pct": 0.49937638603882495,
+   "status": "OK"
+  },
+  {
+   "idx": 3562214,
+   "pair": "0x77e36e66f4c4ba90631a762ce64066b6acc7aa7e",
+   "r0": 142048809082177360307137067,
+   "r1": 24908865487735854136,
+   "base": "0x77274b002412eee0bc6c25d29fcd49140bb97777",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "\ubd88\uac1c\ubbf8",
+   "sym_quote": "WBNB",
+   "loss_pct": 44.71937224084812,
+   "status": "OK"
+  },
+  {
+   "idx": 3562215,
+   "pair": "0x04b41189232e6477e99a181d294b4514e895dfb5",
+   "r0": 8123569820598164344,
+   "r1": 9407435163716857016210079051,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xe173a21f94e43fdf2b26c1a2fee1a61ae74fe923",
+   "sym_base": "WBNB",
+   "sym_quote": "GOAT",
+   "loss_pct": 0.49937638603882495,
+   "status": "OK"
+  },
+  {
+   "idx": 3562216,
+   "pair": "0xe192a8deab653e47ee6e6e1026adc2b27dfe813b",
+   "r0": 8684234047079154,
+   "r1": 11520565149426456243,
+   "base": "0x1d2be7c474e1c8b25d233ac39709ec86af6f1f77",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "MUc",
+   "sym_quote": "WBNB",
+   "loss_pct": 63.54649220232501,
+   "status": "OK"
+  },
+  {
+   "idx": 3562217,
+   "pair": "0x56c06675ce9da2a4fdb3ccb3a409da2ad4694d38",
+   "r0": 22240239921991575003,
+   "r1": 149252708013076216783088411,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xcce5ca01253ca61fe4a576b8815444b52537ce5e",
+   "sym_base": "WBNB",
+   "sym_quote": "\ud83d\udc2fSILL",
+   "loss_pct": 0.49938841194725375,
+   "status": "OK"
+  },
+  {
+   "idx": 3562218,
+   "pair": "0xb6ea4e19ec3fadde1b7cf1bc035abc82adb06a0d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562219,
+   "pair": "0x3107b8f5b14f94bac31adc22d0bcc924f6cb27b8",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562220,
+   "pair": "0x9db5e7e73ee0839ceba5b4d1dfa9b7ce16b7f577",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562221,
+   "pair": "0xd54935a72d64547f21454fe645c4defd80c809f6",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562222,
+   "pair": "0x272d1864f26c3b70c5538e724c652109bc1e90ab",
+   "r0": 9318189927460500983282,
+   "r1": 10733531807180135258,
+   "base": "0x35a1654f454fda3128dc3bb732fe045fa2e17777",
+   "quote": "0x55d398326f99059ff775485246999027b3197955",
+   "sym_base": "DONTBUY",
+   "sym_quote": "USDT",
+   "loss_pct": 65.16496768993474,
+   "status": "OK"
+  },
+  {
+   "idx": 3562223,
+   "pair": "0x6df0fa1b2867d69f3b82dda7b1a7f67bf1e51881",
+   "r0": 195460877889123323493606980,
+   "r1": 20465625400000000000000,
+   "base": "0x37157befca7f3b0af02cdbbf524185f55ed9ada1",
+   "quote": "0x55d398326f99059ff775485246999027b3197955",
+   "sym_base": "\u9886\u5934\u7f8a",
+   "sym_quote": "USDT",
+   "loss_pct": 0.5961532717871922,
+   "status": "OK"
+  },
+  {
+   "idx": 3562224,
+   "pair": "0x75d6111bf16c6a9e73e66fab6d4a049c25989c37",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562225,
+   "pair": "0xa4d7ba6d9039527e2c0be7d351a4f64dfc0c4710",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562226,
+   "pair": "0xafc824e3e8853edf0dc01a33e4d1dfbf1dbca735",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562227,
+   "pair": "0xaa4c9a180654e79cc04a2c42e623a7edb9f8fd22",
+   "r0": 197549474350927560446124658,
+   "r1": 51970400000000000000,
+   "base": "0x9e5fd237cdc671d7feaafce967a767653508d4a4",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "LAM",
+   "sym_quote": "WBNB",
+   "loss_pct": 28.074914581709535,
+   "status": "OK"
+  },
+  {
+   "idx": 3562228,
+   "pair": "0x0dfa1e5878f1e7046ed91d8f57fc966e3a35de6e",
+   "r0": 208077804793032853351309641,
+   "r1": 35627700000000000000,
+   "base": "0x57ceb546335b34af5e7cd3d4f88b9cf748473cb6",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "\ud83d\udcafBOT",
+   "sym_quote": "WBNB",
+   "loss_pct": 36.187180298864476,
+   "status": "OK"
+  },
+  {
+   "idx": 3562229,
+   "pair": "0xd3dd6d2f6e774329b04310067ac302099d167ac9",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562230,
+   "pair": "0xb649bf2f4af994ce568ea04f9f06c6ac4af8bb1e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  }
+ ],
+ "stats": {
+  "n": 40,
+  "zero": 30,
+  "ok": 10,
+  "no_sell": 0,
+  "err": 0,
+  "over20": 5,
+  "over99_99": 0
+ }
+}

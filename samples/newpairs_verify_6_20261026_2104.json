@@ -1,0 +1,51 @@
+{
+ "factory": "0xca143ce32fe78f1f7019d7d551a6402fc5350c73",
+ "all_pairs_length": 3562125,
+ "n": 6,
+ "rows": [
+  {
+   "idx": 3562119,
+   "pair": "0x7f19a7e41db978b6101e947d94242485b45a0f47",
+   "name": "?",
+   "tvl": 0,
+   "loss10": null
+  },
+  {
+   "idx": 3562120,
+   "pair": "0x43632182a6cbc01947c176ee44de7dfa891c626d",
+   "name": "?",
+   "tvl": 0,
+   "loss10": null
+  },
+  {
+   "idx": 3562121,
+   "pair": "0xf3949d20369d86aca4965a56b1b26992dc7b9057",
+   "name": "?",
+   "tvl": 0,
+   "loss10": null
+  },
+  {
+   "idx": 3562122,
+   "pair": "0x860d59e454f1e7d2af6488f0ff81ce834f4e2f89",
+   "name": "?",
+   "tvl": 0,
+   "loss10": null
+  },
+  {
+   "idx": 3562123,
+   "pair": "0xc3fbe1da4dfd3e838ae3684e2a96ab0c0ac1b31c",
+   "name": "CELEB/WBNB",
+   "tvl": 0,
+   "loss10": null
+  },
+  {
+   "idx": 3562124,
+   "pair": "0xb2c2e7b5d1baedd5484df5d726ae685a7e2a1dc0",
+   "name": "HARIN/WBNB",
+   "tvl": 0,
+   "loss10": null
+  }
+ ],
+ "over20": 0,
+ "over9999": 0
+}

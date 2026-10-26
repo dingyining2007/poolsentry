@@ -1,0 +1,17 @@
+{
+  "name": "poolsentry",
+  "version": "0.1.0",
+  "description": "BSC 池往返损耗体检：单跳闭式解，回答「我拿 $X 进去再出来还剩多少」",
+  "keywords": [
+    "bsc",
+    "defi",
+    "pancakeswap",
+    "slippage",
+    "liquidity",
+    "mcp"
+  ],
+  "license": "MIT",
+  "bin": {
+    "poolsentry": "src/cli.py"
+  }
+}

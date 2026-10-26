@@ -1,0 +1,5 @@
+# PoolSentry / pool-health-scanner 依赖
+# 2026-10-23 补：CLI 的往返损耗计算需 eth_abi.encode（禁止手拼 calldata，PIT 系列已两次踩坑）
+eth-abi>=5.0.0
+# 若只跑 pool_health 引擎（不跑 CLI），以下非必需
+# requests>=2.31.0

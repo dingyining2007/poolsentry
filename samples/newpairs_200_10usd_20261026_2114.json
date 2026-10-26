@@ -1,0 +1,1591 @@
+{
+ "factory": "0xca143ce32fe78f1f7019d7d551a6402fc5350c73",
+ "all_pairs_length": 3562234,
+ "index_range": [
+  3562034,
+  3562233
+ ],
+ "usd": 10.0,
+ "fee": 0.0025,
+ "rows": [
+  {
+   "idx": 3562034,
+   "pair": "0x1e650da88d7556956659e0b125acf9fa368b742b",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562035,
+   "pair": "0x855aa1320c3a600dca1d33f3f0200aba3a96c078",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562036,
+   "pair": "0x381d8e56bfba4a0ff78d1d48c43efdc5503e5e06",
+   "r0": 487685354835988960023290,
+   "r1": 47148107873017,
+   "base": "0x2cf45692488bf71cb00499fdfe4238a3a425a3bb",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "HAWK",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99976455506226,
+   "status": "OK"
+  },
+  {
+   "idx": 3562037,
+   "pair": "0x7d64095919058e870ec70c32fe491251f063ae75",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562038,
+   "pair": "0x9cf419bd55d2e4efc6e3531abc6a1a42b0b1c2b0",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562039,
+   "pair": "0x8cf7cdd76b0883a2ba0c59b6e199b8a70f817ccd",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562040,
+   "pair": "0xcf3dbbd0c7736d7d51d96a9ddc69a83878fe24cb",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562041,
+   "pair": "0x6cd0f717a217b0293fb0cf07ab5731869dddde6a",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562042,
+   "pair": "0x2d13a50e6b9b85e4dceeaf7a862c3c09c7733bd3",
+   "r0": 63790098,
+   "r1": 10000000000001,
+   "base": "0xac0ce57f0cff8c62195ab1d9a924003162a60c48",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "SIGMA",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99995006260328,
+   "status": "OK"
+  },
+  {
+   "idx": 3562043,
+   "pair": "0xb6386d4f50dad6639b5394eed84edb50b86c36b8",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562044,
+   "pair": "0x9a9fa1efe630e06f2ad685ce934cd839372967e0",
+   "r0": 78046147144043610086967816,
+   "r1": 42914408447420,
+   "base": "0x1eccbb99425b9cc240698a482ba011930d747777",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "Tie",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99978569697008,
+   "status": "OK"
+  },
+  {
+   "idx": 3562045,
+   "pair": "0xc12f448383aa99ffd9ecad0542e520ffffa882dc",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562046,
+   "pair": "0x847d34b9bc2331def9816b7da3212dee2310f49e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562047,
+   "pair": "0xffb24835b81f083af603440abc1611a10f11b997",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562048,
+   "pair": "0x26a5311d10b0e86530184a818ba1fca93496492c",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562049,
+   "pair": "0x98876f18f53dbb516472924a7508721dff083b91",
+   "r0": 1000,
+   "r1": 1000,
+   "base": "0x55d398326f99059ff775485246999027b3197955",
+   "quote": "0xafd9a829d6c6a58ee0d2e90876e2912f394a6a51",
+   "sym_base": "USDT",
+   "sym_quote": "USDT",
+   "loss_pct": 100.0,
+   "status": "OK"
+  },
+  {
+   "idx": 3562050,
+   "pair": "0x3282a85ff587d9b64bba7e9892b95b5c9c4d07ea",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562051,
+   "pair": "0xd3a6dd242525b5ab1cc123475eaec52615a441e8",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562052,
+   "pair": "0x0200ec3af937ae2caa409ba0c7a0322d9d5a4e58",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562053,
+   "pair": "0x0b0b1979293d198ce8d7d31a9fb236dd952152d9",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562054,
+   "pair": "0xa0709f51140381383b228a4c91ebac4c4fda9017",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562055,
+   "pair": "0xb18d7be00198446f711f2b0075cec8e9e2393466",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562056,
+   "pair": "0x3ad516aaa83949516c9349a829250d81c659bcbb",
+   "r0": 40156101999999999996,
+   "r1": 5014392493767668184,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xd0da012f757563146a61145e31c41e334069cefb",
+   "sym_base": "WBNB",
+   "sym_quote": "AGT",
+   "loss_pct": 0.49939456,
+   "status": "OK"
+  },
+  {
+   "idx": 3562057,
+   "pair": "0x42007f984d0168d05d453c6916c0838e2c7eb605",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562058,
+   "pair": "0x02feb5f077c2b7a3d0564582f48b99d9f199fbac",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562059,
+   "pair": "0x11b063b4748c6e24d971761c93836447791c53b4",
+   "r0": 2000000000000001000,
+   "r1": 2000000000000001000,
+   "base": "0x1e6406a50aed9c52823f08ae58d0206ba9d5d7d9",
+   "quote": "0x55d398326f99059ff775485246999027b3197955",
+   "sym_base": "USDT",
+   "sym_quote": "USDT",
+   "loss_pct": 90.92357205367144,
+   "status": "OK"
+  },
+  {
+   "idx": 3562060,
+   "pair": "0x0df72998fc0bd7a34df69ee5fcb71504d8f6657f",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562061,
+   "pair": "0x2d7ece96c717b5571430223a61f445e400e0614f",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562062,
+   "pair": "0xe01dcd2efb1ceeb87f96826c1f917f56c7432443",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562063,
+   "pair": "0x9f3aa4ae5046bfb35819070da5b96d2727683d52",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562064,
+   "pair": "0x4e871f785d1046b28333cbbefc05f2d67fbcc9a9",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562065,
+   "pair": "0x497469a015746dd5d8bef0c8ed2c69cbff03fa7a",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562066,
+   "pair": "0x58dbbbb2231ab4cfabf1189d385f1cbd75680aec",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562067,
+   "pair": "0x7a461cab68e33e5325136af8ede25e2ed972022d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562068,
+   "pair": "0x6aea6703c01bce192b3deb5434d211aaee13d689",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562069,
+   "pair": "0x52c0cf9f3a0bd4f041626c8398d2ab551cca7766",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562070,
+   "pair": "0x8fc6528358e5b8cfbc23fbde51d311ae723a3b6d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562071,
+   "pair": "0xe1102b6470bc0b59e534d299b004029e925864c6",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562072,
+   "pair": "0x03656881b6f9ebbacbbc2a59943a9be9d25ee7cc",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562073,
+   "pair": "0xf158717050fc7214310f8e36d71ee7ab8b542a8d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562074,
+   "pair": "0xbec9515a9d84ac2e1e6c367c389a861416d97631",
+   "r0": 12695992576206307941195,
+   "r1": 13916413099090,
+   "base": "0xa1f6b1f6ccc019af778945dfdec6eff65c80fa6f",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "BARD",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99993050506949,
+   "status": "OK"
+  },
+  {
+   "idx": 3562075,
+   "pair": "0x14df1c7b0807662dc718e77f687b418fb865165c",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562076,
+   "pair": "0xbb9a027c1c257bff89ea184aa14d2ed9117868e4",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562077,
+   "pair": "0xb6bad39a07e9731d99bf8109b15decf1baff52a3",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562078,
+   "pair": "0x4043fe873680a194f179e8b555f9dc92b48c74ab",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562079,
+   "pair": "0x1cdf2a59ab859ea0ea70c52feae8957ef5fcc7cb",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562080,
+   "pair": "0xe5e6e8d9c2e83c7de61cfbabd655c31787236e54",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562081,
+   "pair": "0x18c12e2dfceb866969e252c140b8b249a51e7f6d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562082,
+   "pair": "0x35f0b66ff3c8f9a89822412f25cd501c7fec6d9e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562083,
+   "pair": "0x32c3e5f609c933adf2ef5dd44f603880b26de5ed",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562084,
+   "pair": "0x6c774e1692d269a7f0b4d83c65c8659fed6931d3",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562085,
+   "pair": "0x247d32af06bc2bde931562ae9075ff65fbd5358e",
+   "r0": 325153545830228804,
+   "r1": 1202599052170,
+   "base": "0x727a6e48a72c4ac7e5e283894e6cd687f1451816",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "?",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99999399453075,
+   "status": "OK"
+  },
+  {
+   "idx": 3562086,
+   "pair": "0x086b08f697e95c77c101d6e9f678a684ae16aa8d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562087,
+   "pair": "0xf2fa86f357d5db4100f5ede8c21419defc6c353a",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562088,
+   "pair": "0xa9d7396c38a0be06ae5899c36c24cf33772108aa",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562089,
+   "pair": "0xcf8eaa1945f15bd67897e48ae6216090a93ff5a2",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562090,
+   "pair": "0x5f135a7d46f98571795b35dbddc80651fb70bb2f",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562091,
+   "pair": "0x06ecf1aeb895721f5c6397d1b0d8cb2e5bef67f7",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562092,
+   "pair": "0xb254a3ff748fa2410c2f4f7a859cf11e144f8be0",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562093,
+   "pair": "0xaff705bbfe9e38cd504cfc41f63f86ac179755a2",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562094,
+   "pair": "0x1ca7b3cc53f9d332b863cfa72c6b19ed3ff39d84",
+   "r0": 2547035460649641976961994818,
+   "r1": 883272618467498,
+   "base": "0xa8c1f1546e66863cfff26a3d696e87d9d70dffff",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "\u20bfNC\u65f6\u4ee3",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99558935979321,
+   "status": "OK"
+  },
+  {
+   "idx": 3562095,
+   "pair": "0x22bfdc3fa8a77e95fafefe7bff294eb6e0db5aa7",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562096,
+   "pair": "0x15da2fd67756bbe9111cf2754fb98b346e8c7f7c",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562097,
+   "pair": "0xda84e5865063ea0cf8a3b0d4bac5f46e6f97d017",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562098,
+   "pair": "0xbffe2d17628f1227ee7c80fa73515d9c82412a25",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562099,
+   "pair": "0xe2bd3dbc31be3ba605b8bc12a4a9883b53ac4803",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562100,
+   "pair": "0x13828b540033a558386251a16bb31a93f7d4e7a8",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562101,
+   "pair": "0x5e39c06289b1f7b60f965d545301118c3006156f",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562102,
+   "pair": "0x86043ec01b0b13387aad0677c9e8016d07a2f166",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562103,
+   "pair": "0x8407878479ed1df85ebd589bb51afecc47e9733a",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562104,
+   "pair": "0x655fe6271395bb104c14e9234f73220c9b569c88",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562105,
+   "pair": "0x924f3e7b0ce730765a2d9a0509f85f0f83114761",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562106,
+   "pair": "0x0e8ecddc3f3c63997e53d520af7626d5bdd2aafc",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562107,
+   "pair": "0xd87615dd838faa02e266d24082da21b8875ec1d2",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562108,
+   "pair": "0x9f5b9b77db2b13a2f68a489f1040e6724e358702",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562109,
+   "pair": "0x832e392bdf7d94d1dea04e49ddd7a027a7c25aab",
+   "r0": 63618228226419712126,
+   "r1": 15837482496076394,
+   "base": "0x86f560cc5417b8e841ce9ebfc5e4ed4dbce27777",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "DONTBUY",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.92097450926641,
+   "status": "OK"
+  },
+  {
+   "idx": 3562110,
+   "pair": "0xc5a9d5073a24d19452182f3507bae09ec7141a79",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562111,
+   "pair": "0x1899c9ea487077bb3170be136dca257d5ac683ce",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562112,
+   "pair": "0x6136ec87bb8ebad74f5cf58d3c9352bda4feb252",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562113,
+   "pair": "0xcfd9fd8eca587aefe2e3edb4728d8f5e3bd0e131",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562114,
+   "pair": "0x6a3599d56949decb9eb50f4fd1733370fefd3496",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562115,
+   "pair": "0x2306cc5a6d6c4b071036fd8df3d16f8d5742d444",
+   "r0": 20000000000001,
+   "r1": 16318290622017,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xebfea9fdfddefbc75599ab0f7fb7be56f1174444",
+   "sym_base": "WBNB",
+   "sym_quote": "MEMORABLE",
+   "loss_pct": 99.9999185107306,
+   "status": "OK"
+  },
+  {
+   "idx": 3562116,
+   "pair": "0x220ba3fe220ad0bb82c3a4bc2155b5495bfd45cd",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562117,
+   "pair": "0xf17255a99f343919170f307e2ae73ecdc3340590",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562118,
+   "pair": "0xaa01e5243d223552dde6d5b73471d540b71fbeee",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562119,
+   "pair": "0x7f19a7e41db978b6101e947d94242485b45a0f47",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562120,
+   "pair": "0x43632182a6cbc01947c176ee44de7dfa891c626d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562121,
+   "pair": "0xf3949d20369d86aca4965a56b1b26992dc7b9057",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562122,
+   "pair": "0x860d59e454f1e7d2af6488f0ff81ce834f4e2f89",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562123,
+   "pair": "0xc3fbe1da4dfd3e838ae3684e2a96ab0c0ac1b31c",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562124,
+   "pair": "0xb2c2e7b5d1baedd5484df5d726ae685a7e2a1dc0",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562125,
+   "pair": "0x3fa20c4699691e56e950a6eb31b4bdd230333cb1",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562126,
+   "pair": "0x875dadc618a862750162f2919f57602c71128dd1",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562127,
+   "pair": "0x867e0532cbb4cbc4ba548cced972621db9a08c5e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562128,
+   "pair": "0xc699f6ff3a46c17dbfb22bcb51b089740a69ae8b",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562129,
+   "pair": "0x8635ba0c67ed21ad3a2c4257ec2a13fbb8dfa407",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562130,
+   "pair": "0xded291d3ec6af7b5e7c0bd0c2ac6806958171ff5",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562131,
+   "pair": "0x7f2c0c694ecc24276dbfdfc5c01b4a44a3a98629",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562132,
+   "pair": "0xe08e868214afa9bd489ebe355db4b1148eec932b",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562133,
+   "pair": "0x7d7ae6d82bc7baf461d5795b912c0dd60b3781c1",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562134,
+   "pair": "0x0405773264eddb7333311fd30b48a27f5fca66d1",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562135,
+   "pair": "0x97e091ccd982a46bb45d4eff3ff9f11c99e9348f",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562136,
+   "pair": "0x679ab794624955ccbb9cd6404be191bc32de897e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562137,
+   "pair": "0x85eac80c5296ec786cdaf56bbbbcca9efef38652",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562138,
+   "pair": "0x3db945fea0cc9c042c20081a835b7e7342f05558",
+   "r0": 10871574767332,
+   "r1": 1093444716621239722277809,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xc7bb32363e9387aea59cbb8a8b5c2451f3f2ef35",
+   "sym_base": "WBNB",
+   "sym_quote": "\u597d\u8fd0\u5c04\u624b\u2600\ufe0f",
+   "loss_pct": 0.5011880985388646,
+   "status": "OK"
+  },
+  {
+   "idx": 3562139,
+   "pair": "0x1d1df18682d178cb764a598493a520717c6da46e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562140,
+   "pair": "0x808273a90849e39811686500053a8220f3084b32",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562141,
+   "pair": "0xe9dfac890f3a84bc65a783597dc13a8c7fc7f777",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562142,
+   "pair": "0x575be9d0a600db06d54ac5b214f0280811aff6ed",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562143,
+   "pair": "0xee9eb94d93e088fd34becbbede22e8c77deff6b9",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562144,
+   "pair": "0x6d06f89d8fc6c5fcea08d5cbb4a934a12617b302",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562145,
+   "pair": "0x3261e7d6da281b0f2117e3443274f2c04d815e06",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562146,
+   "pair": "0x823eda275b32ca01b4a6ab91a87025071018c3e2",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562147,
+   "pair": "0xffd86101b150e309f474a6848ee6e39d46d351b1",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562148,
+   "pair": "0x785440ef7d4a71ccf51359b57f4e89e585bf5363",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562149,
+   "pair": "0x379f9e1d6b1113cbf583255914c8b591c61f9e74",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562150,
+   "pair": "0x4457c14ee42f1eff37cd60fec70f006d213f95bd",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562151,
+   "pair": "0x2f87ec6add8d4c0ae84e68ffc3775fb6f786fc01",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562152,
+   "pair": "0xf1effbaf92456be7e6ae90542ccb0ac37b13fa08",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562153,
+   "pair": "0x0be20c0c3b91282ca1a8f45dabf6bc8209e95be1",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562154,
+   "pair": "0xa86f7227d889ffda8e1a44705a98faaae8a092d4",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562155,
+   "pair": "0xcecb489da5f4a516bfc0c3ad5cbf1f62e2cf2adf",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562156,
+   "pair": "0x15bef7b5cada46bdbd3e71ea5f9f88c5cd0d5798",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562157,
+   "pair": "0x3846a7d2a24c56e508c1731c81f688e0516eea53",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562158,
+   "pair": "0x7316bdbb9c5e191b89f592dbee435378561980c3",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562159,
+   "pair": "0xf728fc04bb19479e04e82c040786794ee32f8d01",
+   "r0": 11467176547032267171,
+   "r1": 872342788621449386008383,
+   "base": "0x55d398326f99059ff775485246999027b3197955",
+   "quote": "0x9d6cc999d464de3d118c18bc1d4194ebc5ba7777",
+   "sym_base": "USDT",
+   "sym_quote": "DONTBUY",
+   "loss_pct": 0.5016476291694592,
+   "status": "OK"
+  },
+  {
+   "idx": 3562160,
+   "pair": "0x2c165c7920afdee3fa1287f998609af336a963b0",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562161,
+   "pair": "0x3e7466d32ca640526bb6a535423117725b2b3161",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562162,
+   "pair": "0x6e8a41a341d1b2a3ec67b00f0e061728c8df008d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562163,
+   "pair": "0x939fe7a7582160144e94ab85d1136fa1bd67c551",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562164,
+   "pair": "0x6c653156998b7bc118f12e0e8531903ce092814a",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562165,
+   "pair": "0x53e84f3b2c95e0785066868b5c24f422507d79d3",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562166,
+   "pair": "0x28afdab3cbe48c33f41f8c9cbd1ba42407991421",
+   "r0": 10228578281529,
+   "r1": 2126764982439719099286691,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xdc4326c6ae45b282f8b1db1165ec75eea4087777",
+   "sym_base": "WBNB",
+   "sym_quote": "\u73cd\u73e0\u5e01",
+   "loss_pct": 0.5003071779294412,
+   "status": "OK"
+  },
+  {
+   "idx": 3562167,
+   "pair": "0x2748a1d65189c6403b22ce4e5374b256d05b060a",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562168,
+   "pair": "0x011cb3d6a2305d9b08d88d3f13825cb302511090",
+   "r0": 325153545830258113,
+   "r1": 1036938395434,
+   "base": "0x4a8e993b93ae61d184f716644a743ed6120c7415",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "?",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99999482179727,
+   "status": "OK"
+  },
+  {
+   "idx": 3562169,
+   "pair": "0xe96073648ffae02508fb0b6941f7b232a0e2aa49",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562170,
+   "pair": "0x95b373fbf7c52de9256c7ecdc05b0856b33c45d4",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562171,
+   "pair": "0x7e7044c327c4b34767f124ef94b6dfaf33a2af45",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562172,
+   "pair": "0xb6e756faa002f8664133c81086ca896a991782b4",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562173,
+   "pair": "0x9848a37ecc6177e69edc995b0c1021f192f755ba",
+   "r0": 10071478406070690826909367,
+   "r1": 10955630535733,
+   "base": "0x4641b054f634ebc9ad26571d8075fac8d7387777",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "\u73cd\u73e0\u5e01",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99994529043579,
+   "status": "OK"
+  },
+  {
+   "idx": 3562174,
+   "pair": "0xae83e2b6febe3ba708bd766d9262896e5c940f8f",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562175,
+   "pair": "0xf79971923117e102feed6a2916505bc0ebfe83cd",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562176,
+   "pair": "0x1706280d505ecae18413c1fce0243ff88a6c8706",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562177,
+   "pair": "0x4343336c9c46247a5f573135567b4b3384272962",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562178,
+   "pair": "0xe8c24db4913d1e9aa9370788eb0fc7e919b4d63f",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562179,
+   "pair": "0x1a0b7d58e0e1f2abd8afcb87106d64b7504adc72",
+   "r0": 5551080850234409877286,
+   "r1": 21737191216424,
+   "base": "0x9a828a15677de926541a0aff12cb7ed41cc5fc8d",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "MPRNT",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99989145018982,
+   "status": "OK"
+  },
+  {
+   "idx": 3562180,
+   "pair": "0xd8a201a561e52fabe85993d91e9e764b7668ad62",
+   "r0": 333528253417032818939789,
+   "r1": 10479058487998,
+   "base": "0x3183eaf39ac3dac2aa0b4bb85c7af66f52310353",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "\ud83d\udd25KIN",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99994767031116,
+   "status": "OK"
+  },
+  {
+   "idx": 3562181,
+   "pair": "0x1af617dfd9eb1bb391862cc73287c4b31b45e15e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562182,
+   "pair": "0xcb39640713cb56b446420ba20305a70e4aff8bfc",
+   "r0": 17452573981462602437637957029,
+   "r1": 6581836708001684644,
+   "base": "0x7b60c00351a74fce5d63233bc77515ebc071d9b0",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "DDMA",
+   "sym_quote": "WBNB",
+   "loss_pct": 75.29334302910785,
+   "status": "OK"
+  },
+  {
+   "idx": 3562183,
+   "pair": "0x6f5ef0891ff7e321b066989fa3b0986fe1e35e2e",
+   "r0": 283725513812989473223394142,
+   "r1": 11477630081853873117,
+   "base": "0x33794b7149a27dd730eb2b186faddea592e87777",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "AIDCOIN",
+   "sym_quote": "WBNB",
+   "loss_pct": 63.63269284356886,
+   "status": "OK"
+  },
+  {
+   "idx": 3562184,
+   "pair": "0xaed8c27483b97d685237ded95e0157caae197054",
+   "r0": 10245250941043030510,
+   "r1": 19610102000000000000,
+   "base": "0x017510b14e1a058c137f5ad27534cc2e23cb4cf1",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "FOREST",
+   "sym_quote": "WBNB",
+   "loss_pct": 50.64602790981812,
+   "status": "OK"
+  },
+  {
+   "idx": 3562185,
+   "pair": "0x91f5e8342b19ba56155a7ee45a7a74ed04596ff0",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562186,
+   "pair": "0xa787e30bcf016080df91c4764c4d85c152d7f57f",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562187,
+   "pair": "0x8359a94565e6486a3fdc09332e80de7032f4b84e",
+   "r0": 10201657037504,
+   "r1": 1943115493732265354432277,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xd06d3937d083b86dd9df199da650ca32c1fc7777",
+   "sym_base": "WBNB",
+   "sym_quote": "\u73cd\u73e0\u5e01",
+   "loss_pct": 0.5003952891835187,
+   "status": "OK"
+  },
+  {
+   "idx": 3562188,
+   "pair": "0xeecc62e5efcffeb657991d8be51d4049fd0204ae",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562189,
+   "pair": "0x4f2272fc882028b277216c6308b88f1027fc9e10",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562190,
+   "pair": "0x5e31c0de441b482f42ac97bc1a5b8438ec6b2161",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562191,
+   "pair": "0x6dd62ba5e112b118a8ee08513c66dca9e8f07687",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562192,
+   "pair": "0xa711539640021f4da9b69f098635243b59c1657f",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562193,
+   "pair": "0x3a2aa480ce1015129f634efa5656692271e618c2",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562194,
+   "pair": "0x14c879ef511b49665412f66cc09f243f744a739d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562195,
+   "pair": "0xc41ebc41c1c61eac74c3d3020d78d17c035b4455",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562196,
+   "pair": "0x91d94a3319cb830f3f16070c2a490af2cb4c0130",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562197,
+   "pair": "0x6d7b9a55fc8cd5187b63b03055a4a9e7e1867322",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562198,
+   "pair": "0xe8d30f1f3d1dd3dbec9f3476044c269f7ae69e25",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562199,
+   "pair": "0x2bc3d2d33ff0b0afbcd8081af7e4f516b1e06b2e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562200,
+   "pair": "0x58cd33c14e257b980ab5ea6469d8d2a73098fe69",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562201,
+   "pair": "0x9c52ed1aad5c77e5de1916f50930f0c88d12e9cd",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562202,
+   "pair": "0x2c95afb349338453917a0d3ea6dde38f216efd61",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562203,
+   "pair": "0xa11a34355e1c15f5d3c60cdffc73e98103d2f28e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562204,
+   "pair": "0x8028acd9017462588f0981387a4e32ebb7b446b5",
+   "r0": 10587436001009,
+   "r1": 4967171742454439743668788,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xe71c9710f55e473122b88185a7d3910ffb4a7777",
+   "sym_base": "WBNB",
+   "sym_quote": "AIDCOIN",
+   "loss_pct": 0.4997741322226893,
+   "status": "OK"
+  },
+  {
+   "idx": 3562205,
+   "pair": "0xc31f1b6a49bd101542670f1b996fbde89c86374c",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562206,
+   "pair": "0x0e88ade039457956677c4f0ec79f20ad5a4d760d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562207,
+   "pair": "0x769cbfc65ff306de77934977386ca020109b5efa",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562208,
+   "pair": "0xdca49292398574ca15622fe0eb07f6c250b4bccc",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562209,
+   "pair": "0xddd3836e5b113c29ec22a0fe93f1474edc4743d6",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562210,
+   "pair": "0x7ed62ee5d24f737a083d55d62189c9c7be6481ab",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562211,
+   "pair": "0x066370430cbc1e858dc8c87ce164e1e9d41cfac3",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562212,
+   "pair": "0xebbe403082894844648195bcbdde288a12baf345",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562213,
+   "pair": "0x9a01562eda314a01cf40d20870f90cb46d2afca0",
+   "r0": 9214671434975,
+   "r1": 639036395454315301066454119,
+   "base": "0x55d398326f99059ff775485246999027b3197955",
+   "quote": "0xbc88dbdf0a4bb08fe16353f0a4026f8b44e4f1a8",
+   "sym_base": "USDT",
+   "sym_quote": "\u706b\u661f\u4eba",
+   "loss_pct": 0.4993791348178944,
+   "status": "OK"
+  },
+  {
+   "idx": 3562214,
+   "pair": "0x77e36e66f4c4ba90631a762ce64066b6acc7aa7e",
+   "r0": 129403531210474337647371804,
+   "r1": 27388414798588392499,
+   "base": "0x77274b002412eee0bc6c25d29fcd49140bb97777",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "\ubd88\uac1c\ubbf8",
+   "sym_quote": "WBNB",
+   "loss_pct": 42.401942410178805,
+   "status": "OK"
+  },
+  {
+   "idx": 3562215,
+   "pair": "0x04b41189232e6477e99a181d294b4514e895dfb5",
+   "r0": 8540520605286233154,
+   "r1": 8950219462164625638393981227,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xe173a21f94e43fdf2b26c1a2fee1a61ae74fe923",
+   "sym_base": "WBNB",
+   "sym_quote": "GOAT",
+   "loss_pct": 0.4993873811551027,
+   "status": "OK"
+  },
+  {
+   "idx": 3562216,
+   "pair": "0xe192a8deab653e47ee6e6e1026adc2b27dfe813b",
+   "r0": 6807392214993474,
+   "r1": 14705565149426456243,
+   "base": "0x1d2be7c474e1c8b25d233ac39709ec86af6f1f77",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "MUc",
+   "sym_quote": "WBNB",
+   "loss_pct": 57.74801028273065,
+   "status": "OK"
+  },
+  {
+   "idx": 3562217,
+   "pair": "0x56c06675ce9da2a4fdb3ccb3a409da2ad4694d38",
+   "r0": 11371707946387,
+   "r1": 4863959897288105788968457,
+   "base": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "quote": "0xcce5ca01253ca61fe4a576b8815444b52537ce5e",
+   "sym_base": "WBNB",
+   "sym_quote": "\ud83d\udc2fSILL",
+   "loss_pct": 0.4997825933082624,
+   "status": "OK"
+  },
+  {
+   "idx": 3562218,
+   "pair": "0xb6ea4e19ec3fadde1b7cf1bc035abc82adb06a0d",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562219,
+   "pair": "0x3107b8f5b14f94bac31adc22d0bcc924f6cb27b8",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562220,
+   "pair": "0x9db5e7e73ee0839ceba5b4d1dfa9b7ce16b7f577",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562221,
+   "pair": "0xd54935a72d64547f21454fe645c4defd80c809f6",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562222,
+   "pair": "0x272d1864f26c3b70c5538e724c652109bc1e90ab",
+   "r0": 9318189927460500983282,
+   "r1": 10733531807180135258,
+   "base": "0x35a1654f454fda3128dc3bb732fe045fa2e17777",
+   "quote": "0x55d398326f99059ff775485246999027b3197955",
+   "sym_base": "DONTBUY",
+   "sym_quote": "USDT",
+   "loss_pct": 65.16496768993474,
+   "status": "OK"
+  },
+  {
+   "idx": 3562223,
+   "pair": "0x6df0fa1b2867d69f3b82dda7b1a7f67bf1e51881",
+   "r0": 186517155498940771935232518,
+   "r1": 21449482300000000000000,
+   "base": "0x37157befca7f3b0af02cdbbf524185f55ed9ada1",
+   "quote": "0x55d398326f99059ff775485246999027b3197955",
+   "sym_base": "\u9886\u5934\u7f8a",
+   "sym_quote": "USDT",
+   "loss_pct": 0.5917183114582425,
+   "status": "OK"
+  },
+  {
+   "idx": 3562224,
+   "pair": "0x75d6111bf16c6a9e73e66fab6d4a049c25989c37",
+   "r0": 64347155605226305591395,
+   "r1": 34682336444718931317,
+   "base": "0x607647f079bb8c9b69522049e780c2f304aeffff",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "\u6148\u5584\u9e1f",
+   "sym_quote": "WBNB",
+   "loss_pct": 36.80500775722172,
+   "status": "OK"
+  },
+  {
+   "idx": 3562225,
+   "pair": "0xa4d7ba6d9039527e2c0be7d351a4f64dfc0c4710",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562226,
+   "pair": "0xafc824e3e8853edf0dc01a33e4d1dfbf1dbca735",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562227,
+   "pair": "0xaa4c9a180654e79cc04a2c42e623a7edb9f8fd22",
+   "r0": 959750513431776356281247,
+   "r1": 10929677276968,
+   "base": "0x9e5fd237cdc671d7feaafce967a767653508d4a4",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "LAM",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99994542003954,
+   "status": "OK"
+  },
+  {
+   "idx": 3562228,
+   "pair": "0x0dfa1e5878f1e7046ed91d8f57fc966e3a35de6e",
+   "r0": 599551006851542469197021,
+   "r1": 10613961636933,
+   "base": "0x57ceb546335b34af5e7cd3d4f88b9cf748473cb6",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "\ud83d\udcafBOT",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.99994699664035,
+   "status": "OK"
+  },
+  {
+   "idx": 3562229,
+   "pair": "0xd3dd6d2f6e774329b04310067ac302099d167ac9",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562230,
+   "pair": "0xb649bf2f4af994ce568ea04f9f06c6ac4af8bb1e",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562231,
+   "pair": "0x0935a0742bcfee6c12df9e3e804ef1b6fc04ab9e",
+   "r0": 5000000000000000000000000000,
+   "r1": 10000000000000000,
+   "base": "0x1d4148da007a05a283674cd29542d00a38b90149",
+   "quote": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+   "sym_base": "MBF69",
+   "sym_quote": "WBNB",
+   "loss_pct": 99.95008762826804,
+   "status": "OK"
+  },
+  {
+   "idx": 3562232,
+   "pair": "0x3c161d2ea343fe004681ffa389e78c7e74fa5120",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  },
+  {
+   "idx": 3562233,
+   "pair": "0x546f1723443f2314122ae1bf4bb338e5a2a91c88",
+   "r0": 0,
+   "r1": 0,
+   "status": "ZERO_RESERVE"
+  }
+ ],
+ "stats": {
+  "n": 200,
+  "zero": 166,
+  "ok": 34,
+  "no_sell": 0,
+  "err": 0,
+  "over20": 24,
+  "over99_99": 14
+ }
+}

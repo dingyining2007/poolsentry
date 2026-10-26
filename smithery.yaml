@@ -1,0 +1,22 @@
+# Smithery 上架配置（https://smithery.ai）
+# 零依赖 Python MCP server，stdio 传输，无需 Docker
+name: poolsentry
+displayName: PoolSentry — BSC 池往返损耗体检
+description: >
+  在把资金放进 BSC 的某个流动性池之前，先算出「买进再卖出到底损耗多少」。
+  只读该池 getReserves() 做 x*y=k 单跳闭式解，不含全站最优路由的乐观偏差。
+  主案例：CAKE/WBNB（$21M TVL）$10 往返 0.4994%。
+version: 0.1.0
+license: MIT
+homepage: https://github.com/dingyining2007/poolsentry
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties: {}
+    required: []
+  commandFunction: |-
+    (config) => ({ command: "python3", args: ["mcp_server.py"] })
+runtime: python
+build:
+  dockerfile: Dockerfile
